@@ -294,4 +294,4 @@ This project is designed to demonstrate understanding of the following automatio
 
 ## License
 
-This project is intended as a portfolio and learning project.
+This repository is shared as a portfolio piece. Please do not reuse or redistribute this code without permission.
